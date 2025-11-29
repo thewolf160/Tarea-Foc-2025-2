@@ -9,15 +9,13 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RitoTorri/Tarea-Foc-2025.git"
+    "url": "git+https://github.com/thewolf160/Tarea-Foc-2025-25.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RitoTorri/Tarea-Foc-2025/issues"
-  },
-  "homepage": "https://github.com/RitoTorri/Tarea-Foc-2025#readme",
+  
+  "homepage": "https://github.com/thewolf160/Tarea-Foc-2025-2#readme",
   "dependencies": {
     "@prisma/client": "^6.19.0",
     "cors": "^2.8.5",
